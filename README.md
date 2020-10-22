@@ -1,6 +1,6 @@
 ### BBB video cut
 
-helper-scritps to 
+helper-scripts to 
 
 - extract videos from BBB
 - cut the videos to good start/end
